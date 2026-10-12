@@ -1,0 +1,197 @@
+[2026-10-11 19:46:01] [en0] CRITICAL: Very high traffic - possible congestion!
+[2026-10-11 19:46:02] [en0] CRITICAL: Very high traffic - possible congestion!
+[2026-10-11 19:46:23] [en0] CRITICAL: Very high traffic - possible congestion!
+[2026-10-11 19:46:24] [en0] CRITICAL: Very high traffic - possible congestion!
+[2026-10-11 19:46:44] [en0] CRITICAL: Very high traffic - possible congestion!
+[2026-10-11 19:46:45] [en0] WARNING: High bandwidth usage detected!
+[2026-10-11 19:47:05] [en0] WARNING: High bandwidth usage detected!
+[2026-10-11 19:47:06] [en0] CRITICAL: Very high traffic - possible congestion!
+[2026-10-11 19:47:07] [en0] CRITICAL: Very high traffic - possible congestion!
+[2026-10-11 19:47:26] [en0] WARNING: High bandwidth usage detected!
+[2026-10-11 19:47:27] [en0] CRITICAL: Very high traffic - possible congestion!
+[2026-10-11 19:47:28] [en0] CRITICAL: Very high traffic - possible congestion!
+[2026-10-11 19:48:12] [en0] WARNING: High bandwidth usage detected!
+[2026-10-11 19:48:13] [en0] CRITICAL: Very high traffic - possible congestion!
+[2026-10-11 19:48:14] [en0] CRITICAL: Very high traffic - possible congestion!
+[2026-10-11 19:48:37] [en0] WARNING: High bandwidth usage detected!
+[2026-10-11 19:48:38] [en0] CRITICAL: Very high traffic - possible congestion!
+[2026-10-11 19:48:39] [en0] CRITICAL: Very high traffic - possible congestion!
+[2026-10-11 19:49:01] [en0] CRITICAL: Very high traffic - possible congestion!
+[2026-10-11 19:49:02] [en0] WARNING: High bandwidth usage detected!
+[2026-10-11 19:49:24] [en0] WARNING: High bandwidth usage detected!
+[2026-10-11 19:49:25] [en0] CRITICAL: Very high traffic - possible congestion!
+[2026-10-11 19:49:26] [en0] WARNING: High bandwidth usage detected!
+[2026-10-11 19:49:48] [en0] WARNING: High bandwidth usage detected!
+[2026-10-11 19:49:49] [en0] CRITICAL: Very high traffic - possible congestion!
+[2026-10-11 19:49:50] [en0] WARNING: High bandwidth usage detected!
+[2026-10-11 19:50:13] [en0] WARNING: High bandwidth usage detected!
+[2026-10-11 19:50:14] [en0] CRITICAL: Very high traffic - possible congestion!
+[2026-10-11 19:52:34] [en0] WARNING: High bandwidth usage detected!
+[2026-10-11 19:52:39] [en0] WARNING: High bandwidth usage detected!
+[2026-10-11 19:52:40] [en0] CRITICAL: Very high traffic - possible congestion!
+[2026-10-11 19:52:41] [en0] WARNING: High bandwidth usage detected!
+[2026-10-11 19:52:51] [en0] CRITICAL: Very high traffic - possible congestion!
+[2026-10-11 19:52:52] [en0] WARNING: High bandwidth usage detected!
+[2026-10-11 19:52:59] [en0] CRITICAL: Very high traffic - possible congestion!
+[2026-10-11 19:53:03] [en0] WARNING: High bandwidth usage detected!
+[2026-10-11 19:53:06] [en0] WARNING: High bandwidth usage detected!
+[2026-10-11 19:53:12] [en0] WARNING: High bandwidth usage detected!
+[2026-10-11 19:53:17] [en0] WARNING: High bandwidth usage detected!
+[2026-10-11 19:53:22] [en0] CRITICAL: Very high traffic - possible congestion!
+[2026-10-11 19:53:23] [en0] WARNING: High bandwidth usage detected!
+[2026-10-11 19:53:26] [en0] WARNING: High bandwidth usage detected!
+[2026-10-11 19:53:28] [en0] WARNING: High bandwidth usage detected!
+[2026-10-11 19:53:29] [en0] WARNING: High bandwidth usage detected!
+[2026-10-11 19:53:36] [en0] CRITICAL: Very high traffic - possible congestion!
+[2026-10-11 19:53:45] [en0] WARNING: High bandwidth usage detected!
+[2026-10-11 19:53:46] [en0] CRITICAL: Very high traffic - possible congestion!
+[2026-10-11 19:54:04] [en0] WARNING: High bandwidth usage detected!
+[2026-10-11 19:54:05] [en0] WARNING: High bandwidth usage detected!
+[2026-10-11 19:54:06] [en0] WARNING: High bandwidth usage detected!
+[2026-10-11 19:54:31] [en0] CRITICAL: Very high traffic - possible congestion!
+[2026-10-11 19:54:32] [en0] WARNING: High bandwidth usage detected!
+[2026-10-11 19:54:48] [en0] WARNING: High bandwidth usage detected!
+[2026-10-11 19:54:49] [en0] CRITICAL: Very high traffic - possible congestion!
+[2026-10-11 19:55:08] [en0] WARNING: High bandwidth usage detected!
+[2026-10-11 19:55:09] [en0] CRITICAL: Very high traffic - possible congestion!
+[2026-10-11 19:55:35] [en0] WARNING: High bandwidth usage detected!
+[2026-10-11 19:55:36] [en0] CRITICAL: Very high traffic - possible congestion!
+[2026-10-11 19:55:58] [en0] WARNING: High bandwidth usage detected!
+[2026-10-11 19:55:59] [en0] WARNING: High bandwidth usage detected!
+[2026-10-11 19:56:00] [en0] WARNING: High bandwidth usage detected!
+[2026-10-11 19:56:01] [en0] WARNING: High bandwidth usage detected!
+[2026-10-11 19:56:23] [en0] WARNING: High bandwidth usage detected!
+[2026-10-11 19:57:27] [en0] WARNING: High bandwidth usage detected!
+[2026-10-11 19:57:50] [en0] CRITICAL: Very high traffic - possible congestion!
+[2026-10-11 19:57:55] [en0] WARNING: High bandwidth usage detected!
+[2026-10-11 19:57:56] [en0] WARNING: High bandwidth usage detected!
+[2026-10-11 19:58:03] [en0] WARNING: High bandwidth usage detected!
+[2026-10-11 19:58:06] [en0] WARNING: High bandwidth usage detected!
+[2026-10-11 19:58:09] [en0] WARNING: High bandwidth usage detected!
+[2026-10-11 19:58:16] [en0] WARNING: High bandwidth usage detected!
+[2026-10-11 19:58:21] [en0] WARNING: High bandwidth usage detected!
+[2026-10-11 19:58:27] [en0] WARNING: High bandwidth usage detected!
+[2026-10-11 19:58:31] [en0] WARNING: High bandwidth usage detected!
+[2026-10-11 19:58:38] [en0] WARNING: High bandwidth usage detected!
+[2026-10-11 19:58:42] [en0] CRITICAL: Very high traffic - possible congestion!
+[2026-10-11 19:58:43] [en0] CRITICAL: Very high traffic - possible congestion!
+[2026-10-11 19:58:44] [en0] WARNING: High bandwidth usage detected!
+[2026-10-11 19:58:47] [en0] WARNING: High bandwidth usage detected!
+[2026-10-11 19:58:57] [en0] WARNING: High bandwidth usage detected!
+[2026-10-11 19:59:10] [en0] WARNING: High bandwidth usage detected!
+[2026-10-11 19:59:11] [en0] WARNING: High bandwidth usage detected!
+[2026-10-11 19:59:24] [en0] WARNING: High bandwidth usage detected!
+[2026-10-11 19:59:37] [en0] WARNING: High bandwidth usage detected!
+[2026-10-11 19:59:59] [en0] WARNING: High bandwidth usage detected!
+[2026-10-11 20:00:00] [en0] WARNING: High bandwidth usage detected!
+[2026-10-11 20:00:02] [en0] WARNING: High bandwidth usage detected!
+[2026-10-11 20:00:07] [en0] WARNING: High bandwidth usage detected!
+[2026-10-11 20:00:09] [en0] WARNING: High bandwidth usage detected!
+[2026-10-11 20:00:13] [en0] WARNING: High bandwidth usage detected!
+[2026-10-11 20:00:15] [en0] WARNING: High bandwidth usage detected!
+[2026-10-11 20:00:19] [en0] WARNING: High bandwidth usage detected!
+[2026-10-11 20:00:22] [en0] WARNING: High bandwidth usage detected!
+[2026-10-11 20:00:25] [en0] WARNING: High bandwidth usage detected!
+[2026-10-11 20:00:27] [en0] WARNING: High bandwidth usage detected!
+[2026-10-11 20:00:28] [en0] CRITICAL: Very high traffic - possible congestion!
+[2026-10-11 20:00:29] [en0] WARNING: High bandwidth usage detected!
+[2026-10-11 20:00:34] [en0] WARNING: High bandwidth usage detected!
+[2026-10-11 20:00:36] [en0] WARNING: High bandwidth usage detected!
+[2026-10-11 20:00:41] [en0] WARNING: High bandwidth usage detected!
+[2026-10-11 20:00:46] [en0] WARNING: High bandwidth usage detected!
+[2026-10-11 20:00:48] [en0] WARNING: High bandwidth usage detected!
+[2026-10-11 20:00:52] [en0] WARNING: High bandwidth usage detected!
+[2026-10-11 20:00:54] [en0] WARNING: High bandwidth usage detected!
+[2026-10-11 20:00:58] [en0] WARNING: High bandwidth usage detected!
+[2026-10-11 20:01:03] [en0] WARNING: High bandwidth usage detected!
+[2026-10-11 20:01:06] [en0] WARNING: High bandwidth usage detected!
+[2026-10-11 20:01:09] [en0] WARNING: High bandwidth usage detected!
+[2026-10-11 20:01:12] [en0] WARNING: High bandwidth usage detected!
+[2026-10-11 20:01:15] [en0] WARNING: High bandwidth usage detected!
+[2026-10-11 20:01:18] [en0] WARNING: High bandwidth usage detected!
+[2026-10-11 20:01:24] [en0] WARNING: High bandwidth usage detected!
+[2026-10-11 20:01:30] [en0] WARNING: High bandwidth usage detected!
+[2026-10-11 20:01:43] [en0] WARNING: High bandwidth usage detected!
+[2026-10-11 20:01:44] [en0] WARNING: High bandwidth usage detected!
+[2026-10-11 20:01:56] [en0] WARNING: High bandwidth usage detected!
+[2026-10-11 20:02:09] [en0] WARNING: High bandwidth usage detected!
+[2026-10-11 20:02:22] [en0] CRITICAL: Very high traffic - possible congestion!
+[2026-10-11 20:02:35] [en0] WARNING: High bandwidth usage detected!
+[2026-10-11 20:02:49] [en0] WARNING: High bandwidth usage detected!
+[2026-10-11 20:03:01] [en0] WARNING: High bandwidth usage detected!
+[2026-10-11 20:03:14] [en0] WARNING: High bandwidth usage detected!
+[2026-10-11 20:03:27] [en0] WARNING: High bandwidth usage detected!
+[2026-10-11 20:03:40] [en0] WARNING: High bandwidth usage detected!
+[2026-10-11 20:03:53] [en0] WARNING: High bandwidth usage detected!
+[2026-10-11 20:04:05] [en0] WARNING: High bandwidth usage detected!
+[2026-10-11 20:04:06] [en0] WARNING: High bandwidth usage detected!
+[2026-10-11 20:04:18] [en0] WARNING: High bandwidth usage detected!
+[2026-10-11 20:04:19] [en0] WARNING: High bandwidth usage detected!
+[2026-10-11 20:04:31] [en0] WARNING: High bandwidth usage detected!
+[2026-10-11 20:04:32] [en0] WARNING: High bandwidth usage detected!
+[2026-10-11 20:04:44] [en0] WARNING: High bandwidth usage detected!
+[2026-10-11 20:04:45] [en0] WARNING: High bandwidth usage detected!
+[2026-10-11 20:04:57] [en0] WARNING: High bandwidth usage detected!
+[2026-10-11 20:04:58] [en0] WARNING: High bandwidth usage detected!
+[2026-10-11 20:05:10] [en0] WARNING: High bandwidth usage detected!
+[2026-10-11 20:05:23] [en0] WARNING: High bandwidth usage detected!
+[2026-10-11 20:05:36] [en0] WARNING: High bandwidth usage detected!
+[2026-10-11 20:05:49] [en0] WARNING: High bandwidth usage detected!
+[2026-10-11 20:06:02] [en0] CRITICAL: Very high traffic - possible congestion!
+[2026-10-11 20:06:15] [en0] WARNING: High bandwidth usage detected!
+[2026-10-11 20:06:16] [en0] WARNING: High bandwidth usage detected!
+[2026-10-11 20:06:30] [en0] CRITICAL: Very high traffic - possible congestion!
+[2026-10-11 20:06:43] [en0] CRITICAL: Very high traffic - possible congestion!
+[2026-10-11 20:06:56] [en0] CRITICAL: Very high traffic - possible congestion!
+[2026-10-11 20:07:08] [en0] WARNING: High bandwidth usage detected!
+[2026-10-11 20:07:09] [en0] WARNING: High bandwidth usage detected!
+[2026-10-11 20:07:21] [en0] WARNING: High bandwidth usage detected!
+[2026-10-11 20:07:22] [en0] WARNING: High bandwidth usage detected!
+[2026-10-11 20:07:35] [en0] WARNING: High bandwidth usage detected!
+[2026-10-11 20:07:47] [en0] WARNING: High bandwidth usage detected!
+[2026-10-11 20:08:00] [en0] WARNING: High bandwidth usage detected!
+[2026-10-11 20:08:13] [en0] CRITICAL: Very high traffic - possible congestion!
+[2026-10-11 20:08:18] [en0] WARNING: High bandwidth usage detected!
+[2026-10-11 20:08:19] [en0] WARNING: High bandwidth usage detected!
+[2026-10-11 20:08:24] [en0] WARNING: High bandwidth usage detected!
+[2026-10-11 20:08:29] [en0] WARNING: High bandwidth usage detected!
+[2026-10-11 20:08:31] [en0] WARNING: High bandwidth usage detected!
+[2026-10-11 20:08:36] [en0] WARNING: High bandwidth usage detected!
+[2026-10-11 20:08:38] [en0] WARNING: High bandwidth usage detected!
+[2026-10-11 20:08:43] [en0] WARNING: High bandwidth usage detected!
+[2026-10-11 20:08:47] [en0] WARNING: High bandwidth usage detected!
+[2026-10-11 20:08:49] [en0] WARNING: High bandwidth usage detected!
+[2026-10-11 20:08:54] [en0] WARNING: High bandwidth usage detected!
+[2026-10-11 20:08:56] [en0] WARNING: High bandwidth usage detected!
+[2026-10-11 20:09:00] [en0] WARNING: High bandwidth usage detected!
+[2026-10-11 20:09:02] [en0] WARNING: High bandwidth usage detected!
+[2026-10-11 20:09:06] [en0] WARNING: High bandwidth usage detected!
+[2026-10-11 20:09:10] [en0] WARNING: High bandwidth usage detected!
+[2026-10-11 20:09:13] [en0] WARNING: High bandwidth usage detected!
+[2026-10-11 20:09:19] [en0] WARNING: High bandwidth usage detected!
+[2026-10-11 20:09:32] [en0] WARNING: High bandwidth usage detected!
+[2026-10-11 20:09:46] [en0] WARNING: High bandwidth usage detected!
+[2026-10-11 20:11:56] [en0] WARNING: High bandwidth usage detected!
+[2026-10-11 20:12:09] [en0] WARNING: High bandwidth usage detected!
+[2026-10-11 20:12:21] [en0] WARNING: High bandwidth usage detected!
+[2026-10-11 20:12:34] [en0] WARNING: High bandwidth usage detected!
+[2026-10-11 20:12:47] [en0] WARNING: High bandwidth usage detected!
+[2026-10-11 20:13:00] [en0] CRITICAL: Very high traffic - possible congestion!
+[2026-10-11 20:13:14] [en0] WARNING: High bandwidth usage detected!
+[2026-10-11 20:13:27] [en0] WARNING: High bandwidth usage detected!
+[2026-10-11 20:13:39] [en0] WARNING: High bandwidth usage detected!
+[2026-10-11 20:13:40] [en0] WARNING: High bandwidth usage detected!
+[2026-10-11 20:13:52] [en0] WARNING: High bandwidth usage detected!
+[2026-10-11 20:13:53] [en0] WARNING: High bandwidth usage detected!
+[2026-10-11 20:14:05] [en0] WARNING: High bandwidth usage detected!
+[2026-10-11 20:14:17] [en0] WARNING: High bandwidth usage detected!
+[2026-10-11 20:14:18] [en0] WARNING: High bandwidth usage detected!
+[2026-10-11 20:14:30] [en0] WARNING: High bandwidth usage detected!
+[2026-10-11 20:14:31] [en0] WARNING: High bandwidth usage detected!
+[2026-10-11 20:14:43] [en0] WARNING: High bandwidth usage detected!
+[2026-10-11 20:14:55] [en0] WARNING: High bandwidth usage detected!
+[2026-10-11 20:14:56] [en0] WARNING: High bandwidth usage detected!
+[2026-10-11 20:15:08] [en0] WARNING: High bandwidth usage detected!
+[2026-10-11 20:15:09] [en0] WARNING: High bandwidth usage detected!
+[2026-10-11 20:26:21] [en0] WARNING: High bandwidth usage detected!
+[2026-10-11 20:26:22] [en0] WARNING: High bandwidth usage detected!

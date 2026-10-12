@@ -1,0 +1,11 @@
+{
+  "interface": "auto",
+  "interval_seconds": 1.0,
+  "warning_mbps": 5.0,
+  "critical_mbps": 20.0,
+  "warning_utilization_percent": 70.0,
+  "critical_utilization_percent": 90.0,
+  "history_file": "logs/bandwidth_history.csv",
+  "alert_file": "logs/alerts.log",
+  "recent_events_shown": 6
+}
